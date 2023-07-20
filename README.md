@@ -12,7 +12,7 @@ Este é um jogo conhecido como "Forca" (ou "Hangman" em inglês), cujo jogador t
 
 ## 📚 Aprendizados
 
-Utilizando somente a linguagem Python contendo todo o conhecimento adquirido ao longo do curso introdutório, foi possível construir um game interativo com o uso de Funções, Loops, Condicionais e List Comprehension aprendidos durante o curso.
+Utilizando somente a linguagem Python contendo todo o conhecimento adquirido ao longo do curso introdutório, foi possível construir um jogo interativo com o uso de Funções, Loops, Condicionais e List Comprehension aprendidos durante o curso.
 
 ## 🔗 Referência
 
