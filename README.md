@@ -1,4 +1,4 @@
-# 🎮 Desenvolvimento de Game em Python
+# 🎮 Desenvolvimento de Jogo em Python
 
 Este é um jogo conhecido como "Forca" (ou "Hangman" em inglês), cujo jogador tem que acertar qual é a palavra proposta, gerada de forma randômica. A cada letra errada, é desenhado uma parte do corpo do enforcado, tendo somente 6 tentativas para o acerto.
 
